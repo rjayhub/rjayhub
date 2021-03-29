@@ -24,12 +24,12 @@
 
 <div>
 <img align="left" height="40" width="40" src="https://cdn.iconscout.com/icon/free/png-512/netbeans-458155.png"/>
+<img src="https://img.icons8.com/fluent/40/000000/visual-studio-code-2019.png"/>
 <img align="left" src="https://img.icons8.com/fluent/40/000000/github.png"/>
 <img align="left" height="40" width="40" src="https://banner2.cleanpng.com/20180919/eh/kisspng-einfhrung-in-java-mit-bluej-objektorientierte-p-our-technologies-5ba30c32b81bf3.4965740315374121467541.jpg"/>
 <img align="left" height="40" src="https://www.clipartmax.com/png/middle/358-3582330_brackets-free-icon-brackets.png"/>
+<img align="left" height="50" width="50" src="https://icon-library.net//images/unity-icon/unity-icon-1.jpg"/>
 <img align="left" width="40" src="https://p1.hiclipart.com/preview/736/783/702/macos-app-icons-android-studio-png-icon.jpg"/>
-<img align="left" height="40" width="40" src="https://icon-library.net//images/unity-icon/unity-icon-1.jpg"/>
-<img src="https://img.icons8.com/fluent/40/000000/visual-studio-code-2019.png"/>
 <br><br>
 </div>
   
