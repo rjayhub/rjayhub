@@ -23,9 +23,9 @@
 ## Tools
 
 <div>
-<img align="left" src="https://en.wikipedia.org/wiki/NetBeans#/media/File:Apache_NetBeans_Logo.svg"/>
+<img align="left" src="https://www.clipartmax.com/png/middle/239-2390602_0-replies-0-retweets-0-likes-netbeans-icon-png.png"/>
 <img align="left" src="https://img.icons8.com/fluent/40/000000/github.png"/>
-<img align="left" src="https://www.freeiconspng.com/uploads/bluej-icon-png-1.png"/>
+<img align="left" height="40" width="40" src="https://banner2.cleanpng.com/20180919/eh/kisspng-einfhrung-in-java-mit-bluej-objektorientierte-p-our-technologies-5ba30c32b81bf3.4965740315374121467541.jpg"/>
 <img align="left" height="40" src="https://www.clipartmax.com/png/middle/358-3582330_brackets-free-icon-brackets.png"/>
 <img align="left" width="40" src="https://p1.hiclipart.com/preview/736/783/702/macos-app-icons-android-studio-png-icon.jpg"/>
 <img align="left" height="40" width="40" src="https://icon-library.net//images/unity-icon/unity-icon-1.jpg"/>
