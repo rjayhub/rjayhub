@@ -12,7 +12,7 @@
 <div>
 <img align="left" src="https://img.icons8.com/color/40/000000/c-programming.png"/>
 <img align="left" src="https://img.icons8.com/color/40/000000/c-plus-plus-logo.png"/>
-<img align="left" src="https://www.freeiconspng.com/uploads/c-logo-icon-18.png"/>
+<img align="left" height="40" width="40" src="https://www.freeiconspng.com/uploads/c-logo-icon-18.png"/>
 <img align="left" src="https://img.icons8.com/color/40/000000/java-coffee-cup-logo.png"/>
 <img align="left" src="https://img.icons8.com/color/40/000000/html-5.png"/>
 <img align="left" src="https://img.icons8.com/color/40/000000/css3.png"/>
