@@ -18,17 +18,17 @@
 <img align="left" src="https://img.icons8.com/color/40/000000/css3.png"/>
 <img align="left" height="40" src="https://www.logo.wine/a/logo/MySQL/MySQL-Logo.wine.svg">
 </div>
-
+<br><br>
 
 ## Tools
 
 <div>
-<img align="left" height="40" src="https://en.wikipedia.org/wiki/NetBeans#/media/File:Apache_NetBeans_Logo.svg"/>
+<img align="left" height="40" width="40" src="https://en.wikipedia.org/wiki/NetBeans#/media/File:Apache_NetBeans_Logo.svg"/>
 <img align="left" src="https://img.icons8.com/fluent/40/000000/github.png"/>
 <img align="left" height="40" src="https://www.freeiconspng.com/uploads/bluej-icon-png-1.png"/>
 <img align="left" height="40" src="https://www.clipartmax.com/png/middle/358-3582330_brackets-free-icon-brackets.png"/>
 <img align="left" width="40" src="https://p1.hiclipart.com/preview/736/783/702/macos-app-icons-android-studio-png-icon.jpg"/>
-<img align="left" height="40" src="https://icon-library.net//images/unity-icon/unity-icon-1.jpg"/>
+<img align="left" src="https://icon-library.net//images/unity-icon/unity-icon-1.jpg"/>
 <img src="https://img.icons8.com/fluent/40/000000/visual-studio-code-2019.png"/>
 <br><br>
 </div>
