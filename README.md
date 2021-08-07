@@ -56,6 +56,6 @@ https://skyline.github.com/rjayhub/2020
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rjayhub&layout=compact&theme=radical" />
 <br>
 <br>
-<img src="https://i.redd.it/em24kh04g0621.gif">
+<img src="https://i.redd.it/em24kh04g0621.gif"align="left">
 <img src="https://i.pinimg.com/originals/8d/4b/77/8d4b77c44b7a68c0fd609411e2c0ec3c.gif" align="right">
 
