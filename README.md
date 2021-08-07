@@ -4,7 +4,7 @@
 
 * 🔭 I’m currently working on Personal Project
 * 🌱 I’m currently learning Javascript(JS), C# and C++ and others
-* 👯 
+* 👯 <img src="https://emojis.slackmojis.com/emojis/images/1621024394/39092/cat-roll.gif?1621024394" width="28" />
 * 💬 Ask me about Java and Python
 * 🏛️ Student at Informatics International Academy and Services (IIAS)
 
