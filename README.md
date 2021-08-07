@@ -50,6 +50,7 @@ https://skyline.github.com/rjayhub/2020
 <br>
 
 <img src="https://github-readme-stats.vercel.app/api?username=rjayhub&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=191919" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rjayhub&layout=compact&theme=radical" />
 <br>
 <br>
 
