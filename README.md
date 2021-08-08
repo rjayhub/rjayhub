@@ -36,12 +36,7 @@
 </div>
 
 ## My Github Skyline
-<img src="https://emojis.slackmojis.com/emojis/images/1605828870/11400/among-us-party.gif?1605828870" width="28" />
-<img src="https://emojis.slackmojis.com/emojis/images/1605722420/11386/among_us_orange_dance.gif?1605722420" width="28" />
-<img src="https://emojis.slackmojis.com/emojis/images/1554740062/5584/deployparrot.gif?1554740062" width="28" />
-<img src="https://emojis.slackmojis.com/emojis/images/1471045839/793/computerrage.gif?1471045839" width="28" />
-<img src="https://emojis.slackmojis.com/emojis/images/1625751875/47107/friday_dog.gif?1625751875" width="28" />
-<img src="https://emojis.slackmojis.com/emojis/images/1614056794/14423/cat-roomba.gif?1614056794" width="28" />
+<img src="https://emojis.slackmojis.com/emojis/images/1605828870/11400/among-us-party.gif?1605828870" width="28" /> <img src="https://emojis.slackmojis.com/emojis/images/1605722420/11386/among_us_orange_dance.gif?1605722420" width="28" /> <img src="https://emojis.slackmojis.com/emojis/images/1554740062/5584/deployparrot.gif?1554740062" width="28" /> <img src="https://emojis.slackmojis.com/emojis/images/1471045839/793/computerrage.gif?1471045839" width="28" /> <img src="https://emojis.slackmojis.com/emojis/images/1625751875/47107/friday_dog.gif?1625751875" width="28" /> <img src="https://emojis.slackmojis.com/emojis/images/1614056794/14423/cat-roomba.gif?1614056794" width="28" />
 <br>
 https://skyline.github.com/rjayhub/2020  
 <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200'>
