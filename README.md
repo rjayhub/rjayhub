@@ -48,7 +48,7 @@ https://skyline.github.com/rjayhub/2020
 [![Youtube](https://img.icons8.com/small/40/000000/youtube.png)](https://www.youtube.com/channel/)&nbsp;&nbsp;&nbsp;
 [![Twitter](https://img.icons8.com/android/40/000000/twitter.png)](https://twitter.com/arjayquinlog)
 [<img height="50" src="https://img.icons8.com/windows/452/hackerrank.png"/>](https://www.hackerrank.com/arjay)
-[<img width="50" height="50" src="https://img.icons8.com/metro/26/000000/linkedin.png"/>](https://www.linkedin.com/in/arjay/)
+[<img width="50" height="50" src="https://img.icons8.com/metro/26/000000/linkedin.png"/>](https://www.linkedin.com/in/arjay-quinlog-2362891b6/)
 <br>
 <br>
 
